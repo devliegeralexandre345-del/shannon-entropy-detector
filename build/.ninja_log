@@ -1,0 +1,7 @@
+# ninja log v5
+1	328	1793984145161315805	CMakeFiles/unit_tests.dir/tests/test.cpp.o	c41b68799c943c4d
+1	366	1793984145199317176	CMakeFiles/shannon_entropy_detector.dir/src/main.cpp.o	4a24e7a4c262b91d
+1	435	1793984145268319667	CMakeFiles/shannon_entropy_detector.dir/src/entropy_calculator.cpp.o	99d0cbb77d24c271
+1	457	1793984145290320461	CMakeFiles/unit_tests.dir/src/entropy_calculator.cpp.o	eaf8238cea1dd386
+435	485	1793984145318314031	shannon_entropy_detector	ba091a44b8adf11d
+457	506	1793984145339905052	unit_tests	2d42482cd2bd68eb

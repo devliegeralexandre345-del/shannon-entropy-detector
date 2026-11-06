@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/shannon-entropy-detector/build/CMakeFiles/shannon_entropy_detector.dir
+/home/ubuntu/cpp-generator/workspace/shannon-entropy-detector/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/shannon-entropy-detector/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/shannon-entropy-detector/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/shannon-entropy-detector/build/CMakeFiles/rebuild_cache.dir
